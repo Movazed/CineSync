@@ -1,0 +1,17 @@
+Api for test:
+
+
+get movies list:
+https://moviesapi.ir/api/v1/movies?page={page}
+
+get detail from a movie:
+https://moviesapi.ir/api/v1/movies/{movie_id}
+
+get genres list:
+https://moviesapi.ir/api/v1/genres
+
+
+5cf36b80f68fbd61b3ecbe02fd7609da
+
+
+eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI1Y2YzNmI4MGY2OGZiZDYxYjNlY2JlMDJmZDc2MDlkYSIsInN1YiI6IjY2MWIxN2IzNWZmMzRlMDE3YzU5Y2Q3NyIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.OYfgH0Oy6cq1djlUU3BIzeBimCaFh-T8CC6jNyd65GA
